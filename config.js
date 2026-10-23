@@ -36,5 +36,5 @@ window.SITE = {
   },
 
   /* PRICES shown on the cards */
-  prices: { starter: "$60", program: "$70", mentorship: "$1000" }
+  prices: { starter: "$70", program: "$250", mentorship: "$1000" }
 };
