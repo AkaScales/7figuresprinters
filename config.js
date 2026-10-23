@@ -30,11 +30,11 @@ window.SITE = {
 
   /* CHECKOUT LINKS: paste your Stripe / Whop / Gumroad / Calendly links. */
   links: {
-    starter: "#",
-    program: "#",
-    mentorship: "#"
+    starter: "$70",
+    program: "$250",
+    mentorship: "$1000"
   },
 
   /* PRICES shown on the cards */
-  prices: { starter: "$40", program: "$70", mentorship: "$200" }
+  prices: { starter: "$60", program: "$70", mentorship: "$1000" }
 };
